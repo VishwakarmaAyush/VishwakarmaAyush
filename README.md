@@ -20,5 +20,3 @@ Currently, I'm focusing on enhancing my understanding of Machine Learning and de
 ## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/iusekarma) or [Twitter](https://twitter.com/iusekarma). I'm always open to interesting discussions, collaborations, and new opportunities.
-
-## 🚀 Find my Projects Below👇
